@@ -1,0 +1,20 @@
+[
+    {
+        "name": "SH010",
+        "fps": 24,
+        "frames": 80,
+        "priority": "Standard"
+    },
+    {
+        "name": "SH020",
+        "fps": 25,
+        "frames": 150,
+        "priority": "Heavy"
+    },
+    {
+        "name": "SH030",
+        "fps": 24,
+        "frames": 95,
+        "priority": "Standard"
+    }
+]
