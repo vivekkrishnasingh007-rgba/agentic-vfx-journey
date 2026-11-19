@@ -3,8 +3,8 @@ import json
 
 # Create a dictionary describing one VFX shot (like a node's knobs)
 shot = {
-    "name": "SH010",
-    "fps": 24,
+    "name": "SH020",
+    "fps": 25,
     "frame_range": [1001, 1120],
     "artist": "Vivek",
 }
