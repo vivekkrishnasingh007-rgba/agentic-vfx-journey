@@ -6,6 +6,7 @@ shots = [
     {"name": "SH010", "fps": 24, "frames": 80},
     {"name": "SH020", "fps": 25, "frames": 150},
     {"name": "SH030", "fps": 24, "frames": 95},
+    {"name": "SH040", "fps": 24, "frames": 200}
 ]
 
 # Empty list to store our tagged results

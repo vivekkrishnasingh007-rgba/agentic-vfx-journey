@@ -16,5 +16,11 @@
         "fps": 24,
         "frames": 95,
         "priority": "Standard"
+    },
+    {
+        "name": "SH040",
+        "fps": 24,
+        "frames": 200,
+        "priority": "Heavy"
     }
 ]
